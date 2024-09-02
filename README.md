@@ -1,1 +1,2 @@
-# Sperm_structure_paper
+
+Single-cell Hi-C preprocessing was performed using [bubble_flow](https://github.com/zhuakexi/bubble_flow). Jupyter notebooks and Python files corresponding to the key steps in the paper are stored in this repo. Updates may follow.
